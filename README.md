@@ -22,3 +22,4 @@ The webscraper is built using a combination of two main libraries, **Requests** 
 A grocery list is parsed through, and HTTP requests are sent for each item. Name and price data is extracted for all the products related to that item, and if no products are found then the item is ignored and an "not found" message is displayed to the screen.
 The minimum cost product is determined and displayed for each grocery list item, and the total cost of the shopping cart is calculated and displayed as well.
 
+The GUI is built using the **Tkinter** library.
