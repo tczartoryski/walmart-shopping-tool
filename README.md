@@ -5,7 +5,7 @@ This tool can be used to determine which combination of items and brands results
 This tool is extremely helpfull to shoppers on a budget who need to quickly determine exactly which products they need to get to fulfill their shopping list without breaking the bank.
 
 ### Features
-* An easy to use gui allows for customers to either upload a grocery list from a textfile or enter it in directly into the app
+* An easy to use GUI allows for customers to either upload a grocery list from a textfile or enter it in directly into the app
 * A progress bar is updated as the grocery list is parsed through
 * The exact price and brand for each grocery list item  is outputted to the gui 
 * The total price of the shopping cart is outputted to the bottom of the screen as well
