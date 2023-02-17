@@ -13,7 +13,7 @@ This tool is extremely helpfull to shoppers on a budget who need to quickly dete
 * A reset button allows for a user to process multiple grocery lists
 
 ## Technical Details
-The webscraper is built using a combination of two main libraries, **Requests** and **Beautiful Soup**.
+The webscraper was built using a combination of two main libraries, **Requests** and **Beautiful Soup**.
 
 **Requests** is a HTTP library for Python which is used to make an HTTP request to the Walmart website and store the HTML elements.
 
@@ -22,4 +22,4 @@ The webscraper is built using a combination of two main libraries, **Requests** 
 A grocery list is parsed through, and HTTP requests are sent for each item. Name and price data is extracted for all the products related to that item, and if no products are found then the item is ignored and an "not found" message is displayed to the screen.
 The minimum cost product is determined and displayed for each grocery list item, and the total cost of the shopping cart is calculated and displayed as well.
 
-The GUI is built using the **Tkinter** library.
+The GUI was built using the **Tkinter** library.
