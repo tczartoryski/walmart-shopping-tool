@@ -4,6 +4,26 @@
 This tool can be used to determine which combination of items and brands results in the cheapest cart based on your shopping list. 
 This tool is extremely helpfull to shoppers on a budget who need to quickly determine exactly which products they need to get to fulfill their shopping list without breaking the bank.
 
+<p align="center">
+  <a href="https://github.com/github_Abhayparashar/price-compare-app">
+    <img src="images/profile.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">price-compare-app</h3>
+
+  <p align="center">
+    It takes the name of the product as input then it compares the price of the product from different websites(flipkart,amazon,ebay,olx,croma) then return the minimun price and the url of the product 
+    <br />
+    <a href="https://github.com/Abhayparashar31/price-compare-app/"><strong>Explore the Project »</strong></a>
+    <br />
+    <br />
+    <a href="https://www.youtube.com/watch?v=Mtz2GrCJVRQ">View Demo</a>
+    ·
+    <a>Report Bug -> parasharabhay13@gmail.com</a>
+    
+  </p>
+</p>
+
 ### Features
 * An easy to use GUI allows for customers to either upload a grocery list from a textfile or enter it in directly into the app
 * A progress bar is updated as the grocery list is parsed through
