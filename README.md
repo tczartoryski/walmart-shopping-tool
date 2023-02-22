@@ -6,7 +6,7 @@ This tool is extremely helpfull to shoppers on a budget who need to quickly dete
 
 <p align="center">
   <a href="https://github.com/tczartoryski/walmart-shopping-tool">
-    <img src="project_images/inputting_grocery_list.png" width="80" height="80">
+    <img src="project_images/inputting_grocery_list.png">
   </a>
 </p>
 
