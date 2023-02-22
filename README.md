@@ -4,7 +4,7 @@
 This tool can be used to determine which combination of items and brands results in the cheapest cart based on your shopping list. 
 This tool is extremely helpfull to shoppers on a budget who need to quickly determine exactly which products they need to get to fulfill their shopping list without breaking the bank.
 
-## Filtering From A Text File
+## Processing From A Text File
 A text file containing a grocery list item on each line can be uploaded to the program and processed. The text file being filtered is as follows ...
 
 * apple juice
@@ -20,6 +20,18 @@ A text file containing a grocery list item on each line can be uploaded to the p
   </a>
   <a href="https://github.com/tczartoryski/walmart-shopping-tool">
     <img src="project_images/filtered_grocery_list.png">
+  </a>
+</p>
+
+## Processing From Manual Input
+The grocery list items can be manually inputted into the program via a textbox. If an item uploaded is not found on the walmart website then the program handles this exception and ignores that item. 
+
+<p align="center">
+  <a href="https://github.com/tczartoryski/walmart-shopping-tool">
+    <img src="project_images/manual_input_with_errors.png">
+  </a>
+  <a href="https://github.com/tczartoryski/walmart-shopping-tool">
+    <img src="project_images/filtered_manual_input_with_errors.png">
   </a>
 </p>
 
