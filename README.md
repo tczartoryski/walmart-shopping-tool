@@ -8,6 +8,12 @@ This tool is extremely helpfull to shoppers on a budget who need to quickly dete
   <a href="https://github.com/tczartoryski/walmart-shopping-tool">
     <img src="project_images/inputting_grocery_list.png">
   </a>
+  <a href="https://github.com/tczartoryski/walmart-shopping-tool">
+    <img src="project_images/grocery_list.png">
+  </a>
+  <a href="https://github.com/tczartoryski/walmart-shopping-tool">
+    <img src="project_images/filtered_grocery_list.png">
+  </a>
 </p>
 
 ### Features
