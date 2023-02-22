@@ -7,11 +7,12 @@ This tool is extremely helpfull to shoppers on a budget who need to quickly dete
 ## Filtering From A Text File
 A text file containing a grocery list item on each line can be uploaded to the program and processed. The text file being filtered is as follows ...
 
-apple juice
-chocolate chip cookies
-american cheese
-hamburger buns
-vanilla ice cream
+* apple juice
+* chocolate chip cookies
+* american cheese
+* hamburger buns
+* vanilla ice cream
+
 
 <p align="center">
   <a href="https://github.com/tczartoryski/walmart-shopping-tool">
