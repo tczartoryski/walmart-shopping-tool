@@ -5,7 +5,7 @@ This tool can be used to determine which combination of items and brands results
 This tool is extremely helpfull to shoppers on a budget who need to quickly determine exactly which products they need to get to fulfill their shopping list without breaking the bank.
 
 ## Processing From Manual Input
-The grocery list items can be manually inputted into the program via a textbox. If an item uploaded is not found on the walmart website then the program handles this exception and ignores that item. 
+The grocery list items can be manually inputted into the program via a textbox. If an item uploaded is not found on the Walmart website then the program handles this exception and ignores that item. 
 
 <p align="center">
   <a href="https://github.com/tczartoryski/walmart-shopping-tool">
