@@ -5,7 +5,13 @@ This tool can be used to determine which combination of items and brands results
 This tool is extremely helpfull to shoppers on a budget who need to quickly determine exactly which products they need to get to fulfill their shopping list without breaking the bank.
 
 ## Filtering From A Text File
-A text file containing a grocery list item on each line can be uploaded to the program and processed.
+A text file containing a grocery list item on each line can be uploaded to the program and processed. The text file being filtered is as follows ...
+
+apple juice
+chocolate chip cookies
+american cheese
+hamburger buns
+vanilla ice cream
 
 <p align="center">
   <a href="https://github.com/tczartoryski/walmart-shopping-tool">
